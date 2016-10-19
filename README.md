@@ -1,2 +1,4 @@
 # hw_py2016
-home work
+
+Home  work  course
+geekhub Python 2016
